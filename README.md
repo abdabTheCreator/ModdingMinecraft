@@ -11,7 +11,7 @@
 ![Screenshot from 2023-05-08 18-10-54](https://user-images.githubusercontent.com/59022024/236748412-3fd3f76d-8e24-4984-8e05-8f947c7f6cba.png)
 
 ## Running from VCS (version control source) 
-- When prompted in the intelliJ windwow choose vcs:
+- When prompted in the intelliJ window choose vcs:
 
 ![Screenshot from 2023-05-08 18-11-37](https://user-images.githubusercontent.com/59022024/236748446-256a24cb-be95-4092-97cd-17d7c65709fc.png)
 

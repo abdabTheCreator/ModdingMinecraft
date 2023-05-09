@@ -17,7 +17,7 @@ public class DragonSpawner {
             event.getWorld().removeBlock(event.getPos(), false); // false = no flags
             EnderDragon dragon = EntityType.ENDER_DRAGON.create(event.getEntity().getLevel());
             dragon.moveTo(event.getPos(), 0, 0);
-            dragon.getPhaseManager().setPhase(EnderDragonPhase.TAKEOFF);
+            dragon.getPhaseManager().setPhase(EnderDragonPhase.LANDING_APPROACH);
             event.getWorld().addFreshEntity(dragon);
         }
     }
